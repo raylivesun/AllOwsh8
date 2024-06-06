@@ -1,0 +1,100 @@
+#!/usr/bin/sh
+
+QUOTING_FILE="$QUOTING_FILE"
+ANSIC_FILE="$ANSIC_FILE"
+VALUE="$VALUE"
+
+echo "$QUOTING_FILE"
+echo "$ANSIC_FILE"
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+" > $ANSIC_FILE
+echo "$VALUE
+" > $QUOTING_FILE
+echo "$VALUE
+

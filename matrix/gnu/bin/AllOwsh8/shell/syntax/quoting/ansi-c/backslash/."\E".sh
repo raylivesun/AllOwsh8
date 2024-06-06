@@ -1,0 +1,31 @@
+#!/usr/bin/sh
+
+SWIPATH1="${SWIPATH:-$SWIPATH='07933042339'}"
+SWIPATH2="${SWIPATH:-$SWIPATH='07933042340'}"
+SWIPATH3="${SWIPATH:-$SWIPATH='07999897949'}"
+SWIPATH4="${SWIPATH:-$SWIPATH='07933015484'}"
+
+
+echo $SWIPATH1
+echo $SWIPATH2
+echo $SWIPATH3
+echo $SWIPATH4
+
+echo $SWIPATH1
+echo $SWIPATH2
+echo $SWIPATH3
+echo $SWIPATH4
+
+echo $1
+echo $2
+echo $3
+echo $4
+echo $5
+echo $6
+echo $7
+echo $8
+echo $9
+
+
+
+

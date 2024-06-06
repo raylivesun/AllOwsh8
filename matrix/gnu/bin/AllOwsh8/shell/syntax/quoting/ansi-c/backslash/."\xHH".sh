@@ -1,0 +1,49 @@
+#!/usr/bin/sh
+
+QUOTING_FILE="$QUOTING_FILE"
+ANSIC_FILE="$ANSIC_FILE"
+CCJSON_FILE="$CCJSON_FILE"
+
+
+echo "$QUOTING_FILE"
+echo "$ANSIC_FILE"
+echo "$CCJSON_FILE"
+
+echo "$QUOTING_FILE"
+echo "$ANSIC_FILE"
+echo "$CCJSON_FILE"
+
+echo "$QUOTING_FILE"
+echo "$ANSIC_FILE"
+echo "$CCJSON_FILE"
+
+echo "$QUOTING_FILE"
+echo "$ANSIC_FILE"
+echo "$CCJSON_FILE"
+
+echo "$QUOTING_FILE"
+echo "$ANSIC_FILE"
+echo "$CCJSON_FILE"
+
+echo "$QUOTING_FILE"
+echo "$ANSIC_FILE"
+echo "$CCJSON_FILE"
+
+echo "$QUOTING_FILE"
+echo "$ANSIC_FILE"
+echo "$CCJSON_FILE"
+
+echo "$QUOTING_FILE"
+echo "$ANSIC_FILE"
+echo "$CCJSON_FILE"
+
+echo "$QUOTING_FILE"
+echo "$ANSIC_FILE"
+echo "$CCJSON_FILE"
+
+echo "$QUOTING_FILE"
+echo "$ANSIC_FILE"
+echo "$CCJSON_FILE"
+
+echo "$QUOTING_FILE"
+echo "$ANSIC_FILE"

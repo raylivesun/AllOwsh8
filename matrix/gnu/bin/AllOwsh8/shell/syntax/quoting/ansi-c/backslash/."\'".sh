@@ -1,0 +1,15 @@
+#!/usr/bin/sh
+
+QUOTING_FILE="$QUOTING_FILE"
+ANSIC_FILE="$ANSIC_FILE"
+LINK_FILE="$LINK_FILE"
+
+echo "$QUOTING_FILE"
+echo "$ANSIC_FILE"
+echo "$LINK_FILE"
+
+
+
+
+
+

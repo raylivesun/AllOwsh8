@@ -1,0 +1,5 @@
+TEXTDOMAIN=example
+TEXTDOMAINDIR=/usr/local/share/locale
+
+cp br.mo ${TEXTDOMAINDIR}/br/LC_MESSAGES/${TEXTDOMAIN}.mo
+cp se.mo ${TEXTDOMAINDIR}/se/LC_MESSAGES/${TEXTDOMAIN}.mo
