@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+
+RESERVED_PATH="$RESERVED_PATH:$RESERVED_PATH"
