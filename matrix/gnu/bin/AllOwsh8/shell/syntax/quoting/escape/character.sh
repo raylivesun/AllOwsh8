@@ -1,0 +1,24 @@
+#!/usr/bin/sh
+
+QUOTING_FILE="$QUOTING_FILE"
+ESCAPE_FILE="$ESCAPE_FILE"
+
+echo "$QUOTING_FILE"
+echo "$ESCAPE_FILE"
+
+echo "$QUOTING_FILE"
+echo "$ESCAPE_FILE"
+
+echo "$QUOTING_FILE"
+echo "$ESCAPE_FILE"
+
+echo "$QUOTING_FILE"
+echo "$ESCAPE_FILE"
+
+echo "$QUOTING_FILE"
+echo "$ESCAPE_FILE"
+
+echo "$QUOTING_FILE"
+echo "$ESCAPE_FILE"
+# ---
+
