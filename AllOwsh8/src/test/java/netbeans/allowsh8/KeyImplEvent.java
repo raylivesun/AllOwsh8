@@ -7,14 +7,13 @@ package netbeans.allowsh8;
 import java.util.Comparator;
 import java.util.stream.Stream;
 import net.kyori.examination.ExaminableProperty;
-import net.kyori.examination.Examiner;
 import org.jetbrains.annotations.NotNull;
 
 /**
  *
  * @author admin
  */
-final class KeyImplEvent implements Key {
+final class KeyImplEvent {
     
     static final Comparator<? super Key> COMPARATOR = null;
     static final String NAMESPACE_PATTERN = "[a-z0-9_\\-.]+";
@@ -203,7 +202,6 @@ final class KeyImplEvent implements Key {
     }
 
     @NotNull
-    @Override
     public String namespace() {
         // <editor-fold defaultstate="collapsed" desc="Compiled Code">
         /* 0: aload_0
@@ -221,7 +219,6 @@ final class KeyImplEvent implements Key {
     }
 
     @NotNull
-    @Override
     public String value() {
         // <editor-fold defaultstate="collapsed" desc="Compiled Code">
         /* 0: aload_0
@@ -239,7 +236,6 @@ final class KeyImplEvent implements Key {
     }
 
     @NotNull
-    @Override
     public String asString() {
         // <editor-fold defaultstate="collapsed" desc="Compiled Code">
         /* 0: aload_0
@@ -281,7 +277,6 @@ final class KeyImplEvent implements Key {
     }
 
     @NotNull
-    @Override
     public Stream<? extends ExaminableProperty> examinableProperties() {
         // <editor-fold defaultstate="collapsed" desc="Compiled Code">
         /* 0: iconst_2
@@ -436,7 +431,6 @@ final class KeyImplEvent implements Key {
         // </editor-fold>
     }
 
-    @Override
     public int compareTo(@NotNull final Key that) {
         // <editor-fold defaultstate="collapsed" desc="Compiled Code">
         /* 0: aload_0
@@ -455,17 +449,7 @@ final class KeyImplEvent implements Key {
         // </editor-fold>
     }
 
-    @Override
-    public String examinableName() {
-        return Key.super.examinableName(); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/OverriddenMethodBody
-    }
-
-    @Override
-    public <R> R examine(Examiner<R> examiner) {
-        return Key.super.examine(examiner); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/OverriddenMethodBody
-    }
-
-    @Override
+   
     public net.kyori.adventure.key.Key key() {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
@@ -482,17 +466,5 @@ final class KeyImplEvent implements Key {
         return outer;
     }
 
-    @Override
-    protected Object clone() throws CloneNotSupportedException {
-        //  Auto-generated method stub
-        return super.clone();
-    }
-
-    @SuppressWarnings("removal")
-    @Override
-    protected void finalize() throws Throwable {
-        //  Auto-generated method stub
-        super.finalize();
-    }
     
 }
